@@ -1,4 +1,4 @@
-package com.ethanaa.todo.todo;
+package com.ethanaa.todo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
